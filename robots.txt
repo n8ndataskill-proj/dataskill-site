@@ -1,0 +1,4 @@
+# As amostras são exemplos com dados fictícios, feitos para quem recebeu o link.
+# Isto só pede aos buscadores que não as listem: NÃO torna as páginas privadas.
+User-agent: *
+Disallow: /amostras/
